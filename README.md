@@ -1,10 +1,7 @@
-<<<<<<< HEAD
+
 # Manual Testing (BD Shop)
 This repository contains test artifacts for the Manual Testing of the BD Shop project, an ecommerce web application. The focus of this testing effort has been on the sign up and sign in modules. The repository includes mindmaps, test execution reports, test cases, and test metrics to effectively plan, execute, and track the testing activities for the BD Shop application.
-=======
->>>>>>> 7a2b67c5481babdc909b38de4688f73d9ae77024
 
-<<<<<<< HEAD
 Table of Contents
 -
 1. Introduction
@@ -16,10 +13,7 @@ Table of Contents
 Introduction
 -
 Manual testing plays a vital role in ensuring the quality of the BD Shop ecommerce web application. This repository serves as a centralized resource for storing and organizing test artifacts related to the sign up and sign in modules. The test artifacts include mindmaps, test execution reports, test cases, and test metrics.
-=======
->>>>>>> 7a2b67c5481babdc909b38de4688f73d9ae77024
 
-<<<<<<< HEAD
 Project Overview
 -
 The BD Shop project is an ecommerce web application aimed at providing a seamless shopping experience to users in Bangladesh. The application allows users to sign up for an account, sign in to their existing account, and perform various actions such as browsing products, adding items to the cart, and making purchases.
@@ -54,5 +48,5 @@ Answer: While there isn't a strict template to follow, we recommend including th
 Q4: Are all Test processes integrated in one file?
 
 Answer: Yes. In the excel file you can see test cases, scenarios, mindmaps, test report and test metrics. All in one.
-=======
->>>>>>> 7a2b67c5481babdc909b38de4688f73d9ae77024
+
+
